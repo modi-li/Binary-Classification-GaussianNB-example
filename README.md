@@ -1,2 +1,7 @@
 # Binary-Classification-GaussianNB-example
-Implemented binary classification with Gaussian Naive Bayes using scikit-learn on a dataset
+
+This uses scikit-learn to implement binary classification with Gaussian Naive Bayes on a dataset.
+
+## License
+
+This is licensed under the MIT license. See [LICENSE](./LICENSE) for more information.
